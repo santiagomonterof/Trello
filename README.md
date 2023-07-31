@@ -9,7 +9,7 @@ This page includes:
 
 It has the following functionalities:
 * User(Login, Register)
-* Respective CRUD
+* Respective CRUDS
 * We can create our tables where they will have their respective rosters which will have their tasks. We can change tasks dynamically between rosters.
 
 ## List of Boards
